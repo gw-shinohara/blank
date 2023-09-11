@@ -1,13 +1,13 @@
 ## Structure
 your_project
-├─config 
-├─data 
-├─docker 
-├─docs 
-├─examples 
-│  ├─notebooks 
-│  └─shells 
-├─libs 
-├─logs 
-├─tests 
-└─your_project
+├─ README.md
+├─ LICENSE
+├─ config 
+├─ data 
+├─ docker 
+├─ docs 
+├─ examples 
+├─ libs 
+├─ logs 
+├─ src
+└─ tests
